@@ -12,7 +12,7 @@ getJSON (https://www.npmjs.com/package/get-json)
 # TODO
 Change your IG Username and Password in bot.js and the move ahead.
 
-#Installing
+# Installing
 1. Install NPM by "npm install"
 2. install Dependencies Instagram Private API (npm install instagram-private-api) and getJSON (npm i get-json)
 3. Run node bot.js
