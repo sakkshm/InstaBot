@@ -1,0 +1,15 @@
+{
+    "name": "ig-bot",
+    "version": "1.0.0",
+    "description": "A bot to post random memes from reddit to Instagram.",
+    "main": "bot.js",
+    "scripts": {
+        "test": "node bot.js"
+    },
+    "author": "Saksham Saxena",
+    "license": "ISC",
+    "dependencies": {
+        "get-json": "^1.0.1",
+        "instagram-private-api": "^1.39.2"
+    }
+}
