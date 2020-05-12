@@ -1,6 +1,6 @@
 # InstaBot 🤖
 A Bot 🤖 that posts random Reddit images to Instagram 
-This bot uses a unofficial Reddit API (https://github.com/R3l3ntl3ss/Meme_Api/) and get a random meme from Reddit and posts them to Instagram using the Instagram Private API
+This bot uses a unofficial Reddit API (https://github.com/R3l3ntl3ss/Meme_Api/) and get a random meme from Reddit and posts them to Instagram using the Instagram Private API. You can change the source and use whatever source you want (unsplash, 9gag , etc.) 
 
 # Made with
 Node JS and ❤️
@@ -14,5 +14,5 @@ Change your IG Username and Password in bot.js and the move ahead.
 
 # Installing
 1. Install NPM by "npm install"
-2. install Dependencies Instagram Private API (npm install instagram-private-api) and getJSON (npm i get-json)
+2. Install Dependencies Instagram Private API (npm install instagram-private-api) and getJSON (npm i get-json)
 3. Run node bot.js
